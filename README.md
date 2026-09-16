@@ -1,5 +1,5 @@
-# CS3-Portfolio
-## 9-Balingkilat
+# CS3
+## Portfolio 9-Balingkilat
 
 ```markdown
 ## Quarter 1 Activities
